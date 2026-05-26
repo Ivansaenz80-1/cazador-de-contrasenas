@@ -1,0 +1,2 @@
+#Detalles del programa
+#Lineaminetos 
